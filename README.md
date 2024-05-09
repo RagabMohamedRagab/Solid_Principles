@@ -10,8 +10,8 @@
    </ol>
   <ol>Videos
      <ul>
-         <li><a href="https://www.youtube.com/playlist?list=PLwWuxCLlF_uevri_OpofVLXkRRFnZ7TSV">S.O.L.D</a></li>
-       <li><a href="https://www.youtube.com/playlist?list=PLnqAlQ9hFYdflFSS4NigVB7aSoYPNwHTL">Principles</a></li>
+         <li><a href="https://www.youtube.com/playlist?list=PLwWuxCLlF_uevri_OpofVLXkRRFnZ7TSV">S.O.L.D Principles</a></li>
+       <li><a href="https://www.youtube.com/playlist?list=PLnqAlQ9hFYdflFSS4NigVB7aSoYPNwHTL">S.O.L.D Principles</a></li>
      </ul>
   </ol>
 </ul>
